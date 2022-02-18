@@ -6,6 +6,6 @@
     "node": "16.x"
   },
   "scripts": {
-    "start": "npm app.js"
+    "start": "node app.js"
   }
 }
